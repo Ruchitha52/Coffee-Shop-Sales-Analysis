@@ -6,8 +6,8 @@ Tools Used: Microsoft Excel
 
 Key Questions:
 
-1.KPIs: Total sales revenue, total footfall, average bill per person and average order quantity per person.
-2.What is the total sales revenue for each month?
+<h2> 1.KPIs: Total sales revenue, total footfall, average bill per person and average order quantity per person.</h2></br>
+<h2>2.What is the total sales revenue for each month?</h2></br>
 3.How do sales vary by hour of the day? Are there any peak times for sales activity?
 4.How do sales vary by day of the week?
 5.What are the top 5 bestselling products in terms of revenue generated?
